@@ -8,10 +8,15 @@ This project creates a free simple way to get weather data with having to use an
 # How to Use
 
 ## Installation
+Copy the WetDuck.py into the same folder as your program.  Then import it as you would.
 
 ## Methods
 
 # DevLogs
+
+### 11/4/2022
+- added new methods
+- converted the time, still needs some work.
 
 ### 11/3/2022
 
@@ -24,5 +29,6 @@ Starting development, shouldn't take long
 - time stamps are in unix code, should probably include a method for converting that.
 
 - Things I could add:
-    - Convert to C, and K
     - 
+    - 
+
