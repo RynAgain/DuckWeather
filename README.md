@@ -11,8 +11,16 @@ This project creates a free simple way to get weather data with having to use an
 Copy the WetDuck.py into the same folder as your program.  Then import it as you would.
 
 ## Methods
+Still building these out, examples can be found in the example workbook.
 
 # DevLogs
+### Method Todo List (data can be accessed the hard way already)
+- Daily weather methods
+- hourly weather methods
+- check for rain in next 12 hrs
+- check for next rain event
+- error handling 
+- 
 
 ### 11/4/2022
 - added new methods
