@@ -20,7 +20,7 @@ Still building these out, examples can be found in the example workbook.
 - check for rain in next 12 hrs
 - check for next rain event
 - error handling 
-- 
+- more detailed location queries
 
 ### 11/4/2022
 - added new methods
@@ -37,6 +37,6 @@ Starting development, shouldn't take long
 - time stamps are in unix code, should probably include a method for converting that.
 
 - Things I could add:
-    - 
+    - Redundant weather pull
     - 
 
