@@ -1,6 +1,8 @@
-# DuckWeather
- Python Package that web scrapes DuckDuckGo for free highly detailed weather data from any location. No API keys needed!
+# Disclaimer
+This project has been deprecated due to DuckDuckGo no longer supporting local weather reports. It will be replaced by a new project called something like MSN Weather Scraper.
 
+# DuckWeather
+Python Package that web scrapes DuckDuckGo for free highly detailed weather data from any location. No API keys needed!
 
 # Overview
 This project creates a free simple way to get weather data with having to use an API service. 
@@ -38,5 +40,3 @@ Starting development, shouldn't take long
 
 - Things I could add:
     - Redundant weather pull
-    - 
-
